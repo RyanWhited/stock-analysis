@@ -24,4 +24,4 @@ In addition, in the original code the output was built into the main loop but in
 ## Summary
 Refactoring code makes it easier to read, takes up less memory, and executes more effeciently. However, as the saying goes "If it ain't broke don't fix it!" Refactoring code could potentially lead to execution issues if you are not careful. 
 
-In my case as it relates to this project, I definitely ran into some issues (mainly around executing the arrays appropriately) that had to be resolved while refactoring the code. After some trial and error, I finally ended up with a successful macro that sped up the output process significantly. 
+In my case as it relates to this project, I definitely ran into some issues (mainly around executing the arrays correctly) that had to be resolved while refactoring the code. After some trial and error, I finally ended up with a successful macro that sped up the output process significantly. 
