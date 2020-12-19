@@ -12,7 +12,7 @@ After refactoring the original code, I noticed a significant change in the speed
 
 ![VBA_Challenge_2018_Original](https://github.com/RyanWhited/stock-analysis/blob/main/VBA_Challenge_2018_Original.png)   ![VBA_Challenge_2018](https://github.com/RyanWhited/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
-What helped the process speed up? One of the main differences is I utilized arrays for the ticker volumes plus both starting and ending prices (see image below). In the original code, we used a nested loop that would obtain these values which slowed down the speed of the results. 
+What helped the process speed up? One of the main reasons is I utilized arrays for the ticker volumes plus both starting and ending prices (see image below). In the original code, we used a nested loop that would obtain these values which slowed down the speed of the results. 
 
 ![VBA_Challenge_New_Arrays](https://github.com/RyanWhited/stock-analysis/blob/main/VBA_Challenge_New_Arrays.png)
 
