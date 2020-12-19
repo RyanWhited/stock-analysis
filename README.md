@@ -16,7 +16,7 @@ What helped the process speed up? One of the main differences is I untilized arr
 
 ![VBA_Challenge_New_Arrays](https://github.com/RyanWhited/stock-analysis/blob/main/VBA_Challenge_New_Arrays.png)
 
-Also in the original code the output was built into the original loop but in the refactored code I created a separate loop that would loop through the arrays to output the Ticker, Total Daily Volume, and Return.
+Also in the original code the output was built into the main loop but in the refactored code I created a separate loop that would loop through the arrays to output the Ticker, Total Daily Volume, and Return.
 
 ![VBA_Challenge_New_Output](https://github.com/RyanWhited/stock-analysis/blob/main/VBA_Challenge_New_Output.png)
 
